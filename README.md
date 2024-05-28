@@ -9,5 +9,5 @@ In the project directory, you can run:
 ### `npm i`
 ### `npm start`
 
-Got o the browser and hit the URL
+Got othe browser and hit the URL
 ### `http://localhost:3000`

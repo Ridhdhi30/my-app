@@ -1,5 +1,5 @@
 .App {
-  text-align: center;
+  /* text-align: center; */
 }
 
 .App-logo {
@@ -35,4 +35,24 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.table-data{
+  width: 100%;
+}
+
+.table-data td, .table-data th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+.table-data th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: white;
+  color: black;
+}
+#content-div {
+  margin: 20px;
 }
